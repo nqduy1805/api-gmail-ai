@@ -1,1 +1,1 @@
-# api-send-email
+# api-gmail-ai
